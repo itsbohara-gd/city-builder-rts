@@ -3,3 +3,6 @@ A real-time strategy game (RTS) inspired by classic city-building games like Cae
 
 # License
 Please note that the licensing is still in active consideration during the early stages of the project, and until a license is chosen for this project you may *not* use any of the code and assets for any purpose. You are however allowed to watch how the project evolves and to learn from it.
+
+# Contribution
+Currently this game is a solo project, so no contributions will be accepted at the moment. This may be subject to change later on.
